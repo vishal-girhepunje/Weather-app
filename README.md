@@ -1,6 +1,6 @@
 # Weather-app
 The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast.
-<img src="
+<img src="https://github.com/vishal-girhepunje/Weather-app/blob/main/Screenshot%20(953).png?raw=true">
 # Functionalities
 - Weather forecast over 8 day
   - Weather (clouds / sun / rain / ...)
@@ -14,3 +14,7 @@ The weather app also provides atmospheric pressure, weather conditions, visibili
 
 # Google maps
 - URL on the city name to Google Map
+# TechStack
+- HTML
+- CSS
+- Java-Script
